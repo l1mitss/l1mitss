@@ -10,11 +10,11 @@ I'm a **Full-Stack Developer** and **Creative Director** based in Dubai, focused
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,cpp,c,html,css" />
 </p>
-# **Backend & Cloud Infrastructure**
+# Backend & Cloud Infrastructure
 <p align="left">
 <img src="https://skillicons.dev/icons?i=firebase,supabase,postgresql,nodejs,git,github,vercel,docker" />
 </p>
-# **Design & Creative Suite**
+# Design & Creative Suite
 <p align="left">
 <img src="https://skillicons.dev/icons?i=figma,blender,ae,pr,ps,ai" />
 </p>
